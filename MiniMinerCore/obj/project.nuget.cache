@@ -1,0 +1,30 @@
+{
+  "version": 2,
+  "dgSpecHash": "HOuUgvr6g8dOHE7KVeiosIB4oPXzX7RHxQwBCaOw3uEnrL3kewaNwK1LNUJS9NSeqlDZ4b9wT2Nf3e0Krr/w7A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\LightWorks\\Source\\Repos\\Minimal-Bitcoin-Miner\\MiniMinerCore\\MiniMinerCore.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\LightWorks\\.nuget\\packages\\consoul\\1.5.8\\consoul.1.5.8.nupkg.sha512",
+    "C:\\Users\\LightWorks\\.nuget\\packages\\microsoft.csharp\\4.0.0\\microsoft.csharp.4.0.0.nupkg.sha512",
+    "C:\\Users\\LightWorks\\.nuget\\packages\\microsoft.extensions.configuration\\3.1.3\\microsoft.extensions.configuration.3.1.3.nupkg.sha512",
+    "C:\\Users\\LightWorks\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\3.1.3\\microsoft.extensions.configuration.abstractions.3.1.3.nupkg.sha512",
+    "C:\\Users\\LightWorks\\.nuget\\packages\\microsoft.extensions.configuration.fileextensions\\3.1.3\\microsoft.extensions.configuration.fileextensions.3.1.3.nupkg.sha512",
+    "C:\\Users\\LightWorks\\.nuget\\packages\\microsoft.extensions.configuration.json\\3.1.3\\microsoft.extensions.configuration.json.3.1.3.nupkg.sha512",
+    "C:\\Users\\LightWorks\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\3.1.3\\microsoft.extensions.fileproviders.abstractions.3.1.3.nupkg.sha512",
+    "C:\\Users\\LightWorks\\.nuget\\packages\\microsoft.extensions.fileproviders.physical\\3.1.3\\microsoft.extensions.fileproviders.physical.3.1.3.nupkg.sha512",
+    "C:\\Users\\LightWorks\\.nuget\\packages\\microsoft.extensions.filesystemglobbing\\3.1.3\\microsoft.extensions.filesystemglobbing.3.1.3.nupkg.sha512",
+    "C:\\Users\\LightWorks\\.nuget\\packages\\microsoft.extensions.primitives\\3.1.3\\microsoft.extensions.primitives.3.1.3.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'Microsoft.CSharp 4.0.0' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework '.NETCoreApp,Version=v3.1'. This package may not be fully compatible with your project.",
+      "libraryId": "Microsoft.CSharp",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    }
+  ]
+}

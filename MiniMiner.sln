@@ -1,7 +1,11 @@
 ﻿
-Microsoft Visual Studio Solution File, Format Version 11.00
-# Visual Studio 2010
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30330.147
+MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MiniMiner", "MiniMiner\MiniMiner.csproj", "{105BF569-53D1-461C-A087-CFB8CA6D644D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MiniMinerCore", "MiniMinerCore\MiniMinerCore.csproj", "{8B2A1183-C257-4E4F-821F-77AA21F695A7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -19,8 +23,19 @@ Global
 		{105BF569-53D1-461C-A087-CFB8CA6D644D}.Release|Any CPU.Build.0 = Release|Any CPU
 		{105BF569-53D1-461C-A087-CFB8CA6D644D}.Release|x86.ActiveCfg = Release|x86
 		{105BF569-53D1-461C-A087-CFB8CA6D644D}.Release|x86.Build.0 = Release|x86
+		{8B2A1183-C257-4E4F-821F-77AA21F695A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B2A1183-C257-4E4F-821F-77AA21F695A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B2A1183-C257-4E4F-821F-77AA21F695A7}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{8B2A1183-C257-4E4F-821F-77AA21F695A7}.Debug|x86.Build.0 = Debug|Any CPU
+		{8B2A1183-C257-4E4F-821F-77AA21F695A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B2A1183-C257-4E4F-821F-77AA21F695A7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8B2A1183-C257-4E4F-821F-77AA21F695A7}.Release|x86.ActiveCfg = Release|Any CPU
+		{8B2A1183-C257-4E4F-821F-77AA21F695A7}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7B364DBA-D983-4355-8C16-EE43DD9E58FC}
 	EndGlobalSection
 EndGlobal
